@@ -25,7 +25,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/NMMustafina/photo_app.git
+   git clone https://github.com/NMMustafina/tip_wizard_pocket_overflow.git
    ```
 2. Install all the packages by typing the following command
    ```sh
